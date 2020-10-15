@@ -1,5 +1,3 @@
-## Hi there!💻
-
 <h3 align="center"> ✨ Thanks  for visiting my Github Profile ✨ </h3>
 
 </br>

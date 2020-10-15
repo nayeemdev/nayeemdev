@@ -1,6 +1,7 @@
 ## Hi there!💻
 
-**Thanks  for visiting my Github Profile**✨ 
+<h3 align="center"> ✨ Thanks  for visiting my Github Profile ✨ </h3>
+
 </br>
 <p align="center"> 
   Visitor count<br>

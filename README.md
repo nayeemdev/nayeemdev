@@ -29,5 +29,3 @@
 
 - Developer at [GeekPicker](https://www.geekpicker.com)
 - Loves Coffee and Travel
-
-![Metrics](https://raw.githubusercontent.com/nayeemdev/nayeemdev/github-metrics/github-metrics.svg)

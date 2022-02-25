@@ -14,7 +14,7 @@
     />
   </a>
   
-    <a href="https://api.daily.dev/get?r=nayeemdev" target="_blank">
+  <a href="https://api.daily.dev/get?r=nayeemdev" target="_blank">
     <img
       width="256"
       align="right"

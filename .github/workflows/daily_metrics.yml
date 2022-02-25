@@ -1,11 +1,12 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: daily-metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,7 +14,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_FOR_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
           

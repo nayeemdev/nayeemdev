@@ -30,4 +30,4 @@
 - Developer at [GeekPicker](https://www.geekpicker.com)
 - Loves Coffee and Travel
 
-![Nayeem's github stats](https://github-readme-stats.vercel.app/api?username=nayeemdev&count_private=true&theme=dark)
+![Nayeem's github stats](https://github-readme-stats.vercel.app/api?username=nayeemdev&count_private=true&show_icons=true&theme=radical)

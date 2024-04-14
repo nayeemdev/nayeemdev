@@ -1,19 +1,21 @@
-# 💫 About Me
+<h1 align="center">Hi There, I'm Md Nayeem Hossain 👋</h1>
 
-<div align="left">
-  🔭 I’m currently working on MySelf
-  
-  <a href="https://api.daily.dev/get?r=nayeemdev" target="_blank">
-    <img
-      width="280"
-      align="right"
-      src="https://raw.githubusercontent.com/nayeemdev/nayeemdev/devcard/devcard.svg"
-    />
-  </a>
+<h3 align="center">Cloud-Savvy Backend Software Engineer From 🇧🇩 </h3>
+<p>
+  As a software engineer with over 5 years of experience, I am passionate about building scalable, reliable systems. I've been working in the cloud for over 2 years and love sharing what I've learned.
+
+I've been working with PHP and JavaScript since the beginning of my career. I have experience with Laravel, Node.js, Express.js, React.js, and Next.js. Additionally, I have worked with AWS and GCP. I am also familiar with Docker, Kubernetes, and Terraform.
+</p>
+</br>
+ <div id="badges">
+   <a href="https://www.linkedin.com/in/nayeemdev">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://twitter.com/nayeemdev">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+
+   <a align="right" href="https://github.com/ferasbbm?tab=followers">
+      <img  align="right" src="https://img.shields.io/github/followers/nayeemdev?username=nayeemdev&label=Followers" alt="nayeemdev" />
+   </a>
 </div>
-
-## 🌐 Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nayeemdev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nayeemdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayeemdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nayeemdev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9841556)
-
-## 💻 Tech Stack
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 

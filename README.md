@@ -2,10 +2,13 @@
 
 <h3 align="center">Cloud-Savvy Backend Software Engineer From 🇧🇩 </h3>
 <p>
-  As a software engineer with over 5 years of experience, I am passionate about building scalable, reliable systems. I've been working in the cloud for over 2 years and love sharing what I've learned.
+  I’m a software engineer with over 5 years of experience and a passion for building scalable, reliable systems. I’ve been working in the cloud for over 2 years and love sharing what I’ve learned.
 
-I've been working with PHP and JavaScript since the beginning of my career. I have experience with Laravel, Node.js, Express.js, React.js, and Next.js. Additionally, I have worked with AWS and GCP. I am also familiar with Docker, Kubernetes, and Terraform.
+I have been working with PHP, and JavaScript from the beginning of my career. I have experience with Laravel, Node.js, Express.js, React.js, and Next.js. I have also worked with AWS and GCP. I am also familiar with Docker, Kubernetes, and Terraform.
 </p>
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/nayeemdev/find-me-on-cm-b.svg)](https://www.codementor.io/@nayeemdev?refer=badge)
+
 </br>
  <div id="badges">
    <a href="https://www.linkedin.com/in/nayeemdev">

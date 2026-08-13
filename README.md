@@ -2,9 +2,13 @@
 
 <h3 align="center">Cloud-Savvy Backend Software Engineer From 🇧🇩 </h3>
 <p>
-  I’m a software engineer with over 5 years of experience and a passion for building scalable, reliable systems. I’ve been working in the cloud for over 2 years and love sharing what I’ve learned.
+    8 years building backend systems that scale. Currently an Associate Lead Engineer at AD Group (Australia), where I lead development on cloud-native microservices platform using Laravel, Kafka, Kubernetes, and Elasticsearch.
 
-I have been working with PHP, and JavaScript from the beginning of my career. I have experience with Laravel, Node.js, Express.js, React.js, and Next.js. I have also worked with AWS and GCP. I am also familiar with Docker, Kubernetes, and Terraform.
+I've led teams of 20+, owned backend architecture end-to-end, and driven hiring and onboarding from the ground up. My stack runs deep: PHP/Laravel at the core, layered with Docker, Redis, MySQL/PostgreSQL, and CI/CD pipelines built for high-throughput, distributed systems.
+ 
+Lately I've been going deep on agentic AI. Building with Claude Code, MCP servers, and spec-driven development workflows. I believe the next phase of backend engineering is less about writing every line and more about designing systems where AI agents handle the heavy lifting.
+ 
+Open to connecting on backend architecture, cloud systems, and agentic engineering.
 </p>
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/nayeemdev/find-me-on-cm-b.svg)](https://www.codementor.io/@nayeemdev?refer=badge)
